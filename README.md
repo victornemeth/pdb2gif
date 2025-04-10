@@ -10,7 +10,7 @@ docker Installation Guide](https://docs.docker.com/engine/install/)
 
 ### Usage
 ```
-git clone git@github.com:victornemeth/pdb2gif.git && cd pdb2gif
+git clone https://github.com/victornemeth/pdb2gif.git && cd pdb2gif
 
 docker build -t pdb2gif .
 
